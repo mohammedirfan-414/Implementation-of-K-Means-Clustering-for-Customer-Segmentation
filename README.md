@@ -71,9 +71,9 @@ RegisterNumber:
 */
 ```
 ## Output:
-![alt text](<Screenshot 2026-03-11 133138-1.png>)
- ![alt text](<Screenshot 2026-03-11 133153-1.png>)
-![alt text](<Screenshot 2026-03-11 133203-1.png>)
+![ex10/Screenshot 2026-03-11 133138.png](<Screenshot 2026-03-11 133138.png>)
+![ex10/Screenshot 2026-03-11 133153.png](<Screenshot 2026-03-11 133153.png>)
+![ex10/Screenshot 2026-03-11 133203.png](<Screenshot 2026-03-11 133203.png>)
 
 
 
